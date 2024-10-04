@@ -17,8 +17,8 @@
                  
             }
             #fajl {
-                font-size: large; width:500px;border:4px solid rgb(204, 0, 204);
-                position: absolute; margin-left:29vw; text-align:left; min-height: 50px;
+                font-size: large; width:500px; border:4px solid rgb(204, 0, 204);
+                position: absolute; text-align:left; min-height: 50px; left: 50%; transform: translateX(-50%);
                 max-height: 250px; overflow-y: auto; overflow-x: hidden; background-color: rgb(255, 51, 255);
             }
             
